@@ -106,6 +106,7 @@ make valgrind
 
 Valgrind confirms **zero memory leaks** and **no invalid memory accesses**.
 
+![alt text](image.png)
 ---
 
 ## 📎 Notes
@@ -116,6 +117,4 @@ Valgrind confirms **zero memory leaks** and **no invalid memory accesses**.
 
 ---
 
-## 📞 Contact
-
-For questions or feedback, please contact the project developer.
+ChatGPT was used for some little documantion and for the README file design.
